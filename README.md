@@ -24,6 +24,6 @@ If you’ve got a cool project or opportunity in mind, let’s connect!
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: [ebikemeese@gmail.com](mailto:ebikemeese@gmail.com)
+- 📧 Email: [ebikemeese@gmail.com](mailto:ebikemeese257@gmail.com)
 
 Let’s build something great together!
