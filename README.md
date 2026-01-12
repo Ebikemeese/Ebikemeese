@@ -5,7 +5,7 @@ I'm a passionate web developer with a growing skill set in both frontend and bac
 ---
 
 ### 🚀 About Me
-- 🔭 Currently diving deeper into **Django**, **React**, **React Native**, **Next.js**, **Three.js** and **Gsap**
+- 🔭 Currently diving deeper into **Django**, **React**, **React Native**, **Node.js**, **Three.js** and **Gsap**
 - 🌱 Always learning and evolving in the world of web and mobile development
 - 💡 Interested in full-stack development, mobile-first design, and clean code practices
 
