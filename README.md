@@ -104,13 +104,13 @@ I’m excited to collaborate on:
       <img src="https://github.com/Ebikemeese/ebikemeese.github.io/blob/4e1d315c049177d4551493dec98e366721110230/src/assets/projects/greatkart.png" alt="Portfolio Website Screenshot" width="300"/><br>
       <b>🛒 E-commerce Platform</b><br>
       Scalable online store built with <b>Django + PostgreSQL</b><br>
-      <a href="https://github.com/yourusername/ecommerce">🔗 View Project</a>
+      <a href="https://greatkart-ad.onrender.com">🔗 View Project</a>
     </td>
     <td align="center">
       <img src="https://github.com/Ebikemeese/ebikemeese.github.io/blob/4e1d315c049177d4551493dec98e366721110230/src/assets/projects/streamify.png" alt="Portfolio Website Screenshot" width="300"/><br>
       <b>💬 Real-time Chat App</b><br>
       Built with <b>Node.js + Stream</b><br>
-      <a href="https://greatkart-ad.onrender.com">🔗 View Project</a>
+      <a href="https://ebikemeese.github.io/Streamify">🔗 View Project</a>
     </td>
     <td align="center">
       <img src="https://github.com/Ebikemeese/ebikemeese.github.io/blob/4e1d315c049177d4551493dec98e366721110230/src/assets/projects/converso.png" alt="Portfolio Website Screenshot" width="300"/><br>
