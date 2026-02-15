@@ -19,57 +19,6 @@ I’m excited to collaborate on:
 
 ---
 
-## 📂 Featured Projects
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Ebikemeese/ebikemeese.github.io/blob/4e1d315c049177d4551493dec98e366721110230/src/assets/projects/portfolio.png" alt="Portfolio Website Screenshot" width="300"/><br>
-      <b>🖼️John Doe Portfolio Website</b><br>
-      A modern, responsive portfolio built with <b>React + TailwindCSS</b><br>
-      <a href="https://github.com/yourusername/portfolio">🔗 View Project</a>
-    </td>
-    <td align="center">
-      <img src="https://github.com/Ebikemeese/ebikemeese.github.io/blob/4e1d315c049177d4551493dec98e366721110230/src/assets/projects/horizon.png" alt="Portfolio Website Screenshot" width="300"/><br>
-      <b>📱 Bank App</b><br>
-      Cross‑platform app using <b>React Native + Django backend</b><br>
-      <a href="https://github.com/yourusername/mobile-app">🔗 View Project</a>
-    </td>
-    <td align="center">
-      <img src="https://github.com/Ebikemeese/ebikemeese.github.io/blob/4e1d315c049177d4551493dec98e366721110230/src/assets/projects/zentry.png" alt="Portfolio Website Screenshot" width="300"/><br>
-      <b>🎮 3D Web Experience</b><br>
-      Interactive 3D animations with <b>Three.js + GSAP</b><br>
-      <a href="https://github.com/yourusername/3d-web">🔗 View Project</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Ebikemeese/ebikemeese.github.io/blob/4e1d315c049177d4551493dec98e366721110230/src/assets/projects/greatkart.png" alt="Portfolio Website Screenshot" width="300"/><br>
-      <b>🛒 E-commerce Platform</b><br>
-      Scalable online store built with <b>Django + PostgreSQL</b><br>
-      <a href="https://github.com/yourusername/ecommerce">🔗 View Project</a>
-    </td>
-    <td align="center">
-      <img src="https://github.com/Ebikemeese/ebikemeese.github.io/blob/4e1d315c049177d4551493dec98e366721110230/src/assets/projects/streamify.png" alt="Portfolio Website Screenshot" width="300"/><br>
-      <b>💬 Real-time Chat App</b><br>
-      Built with <b>Node.js + WebSocket (Daphne)</b><br>
-      <a href="https://github.com/yourusername/chat-app">🔗 View Project</a>
-    </td>
-    <td align="center">
-      <img src="https://github.com/Ebikemeese/ebikemeese.github.io/blob/4e1d315c049177d4551493dec98e366721110230/src/assets/projects/converso.png" alt="Portfolio Website Screenshot" width="300"/><br>
-      <b>📊 Learning Management System</b><br>
-      Data visualization with <b>React + Supabase</b><br>
-      <a href="https://github.com/yourusername/dashboard">🔗 View Project</a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-
 ## 🛠️ Skills
 <div align="center">
 
@@ -124,6 +73,55 @@ I’m excited to collaborate on:
 
 </div>
 
+---
+
+## 📂 Featured Projects
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Ebikemeese/ebikemeese.github.io/blob/4e1d315c049177d4551493dec98e366721110230/src/assets/projects/portfolio.png" alt="Portfolio Website Screenshot" width="300"/><br>
+      <b>🖼️John Doe Portfolio Website</b><br>
+      A modern, responsive portfolio built with <b>React + TailwindCSS</b><br>
+      <a href="https://ebikemeese.github.io/John-doe-portfolio">🔗 View Project</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Ebikemeese/ebikemeese.github.io/blob/4e1d315c049177d4551493dec98e366721110230/src/assets/projects/horizon.png" alt="Portfolio Website Screenshot" width="300"/><br>
+      <b>📱 Bank App</b><br>
+      Cross‑platform app using <b>React Native + Django backend</b><br>
+      <a href="https://ebikemeese.github.io/Horizon">🔗 View Project</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Ebikemeese/ebikemeese.github.io/blob/4e1d315c049177d4551493dec98e366721110230/src/assets/projects/zentry.png" alt="Portfolio Website Screenshot" width="300"/><br>
+      <b>🎮 3D Web Experience</b><br>
+      Interactive 3D animations with <b>Three.js + GSAP</b><br>
+      <a href="https://ebikemeese.github.io/Award-winning">🔗 View Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Ebikemeese/ebikemeese.github.io/blob/4e1d315c049177d4551493dec98e366721110230/src/assets/projects/greatkart.png" alt="Portfolio Website Screenshot" width="300"/><br>
+      <b>🛒 E-commerce Platform</b><br>
+      Scalable online store built with <b>Django + PostgreSQL</b><br>
+      <a href="https://github.com/yourusername/ecommerce">🔗 View Project</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Ebikemeese/ebikemeese.github.io/blob/4e1d315c049177d4551493dec98e366721110230/src/assets/projects/streamify.png" alt="Portfolio Website Screenshot" width="300"/><br>
+      <b>💬 Real-time Chat App</b><br>
+      Built with <b>Node.js + Stream</b><br>
+      <a href="https://greatkart-ad.onrender.com">🔗 View Project</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Ebikemeese/ebikemeese.github.io/blob/4e1d315c049177d4551493dec98e366721110230/src/assets/projects/converso.png" alt="Portfolio Website Screenshot" width="300"/><br>
+      <b>📊 Learning Management System</b><br>
+      Data visualization with <b>React + Supabase</b><br>
+      <a href="https://ebikemeese.github.io/Saas-app">🔗 View Project</a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
