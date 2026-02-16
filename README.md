@@ -128,6 +128,7 @@ I’m excited to collaborate on:
 ## 📈 GitHub Stats
 <div align="center">
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ebikemeese&theme=radical)  
 ![Ebikeme's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ebikemeese&theme=react-dark)
 
 </div>
