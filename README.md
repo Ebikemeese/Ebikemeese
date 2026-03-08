@@ -49,12 +49,12 @@ I’m excited to collaborate on:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-6B1F22?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![WebSocket (Daphne)](https://img.shields.io/badge/WebSocket%20(Daphne)-000000?style=for-the-badge&logo=websocket&logoColor=white)
 ![Vapi AI](https://img.shields.io/badge/Vapi%20AI-000000?style=for-the-badge&logo=vapi&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![WebSockets(Daphne)](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white)
 
 ---
 
@@ -78,9 +78,9 @@ I’m excited to collaborate on:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Stream](https://img.shields.io/badge/Stream-0F9D58?style=for-the-badge&logo=stream&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Arcjet](https://img.shields.io/badge/Arcjet-34388F?style=for-the-badge&logo=arcjet&logoColor=white)
 ![Site24x7](https://img.shields.io/badge/Site24x7-26CD66?style=for-the-badge&logo=site24x7&logoColor=white)
 ![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FC5D13?style=for-the-badge&logo=coderabbit&logoColor=white)
