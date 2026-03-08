@@ -31,6 +31,7 @@ I’m excited to collaborate on:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Shadcn/UI](https://img.shields.io/badge/Shadcn%2FUI-000000?style=flat&logo=shadcnui&logoColor=white)
+![Refine](https://img.shields.io/badge/Refine-42D7C3?style=flat&logo=refine&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF0?style=flat&logo=daisyui&logoColor=white)
 ![Aceternity UI](https://img.shields.io/badge/Aceternity%20UI-000000?style=flat&logo=react&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -62,6 +63,9 @@ I’m excited to collaborate on:
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-000000?style=flat&logo=clerk&logoColor=white)
+![NeonDB](https://img.shields.io/badge/NeonDB-00E599?style=flat&logo=neon&logoColor=black)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black)
+![Better-Auth](https://img.shields.io/badge/Better--Auth-000000?style=flat&logo=auth0&logoColor=white)
 
 ---
 
@@ -70,6 +74,10 @@ I’m excited to collaborate on:
 ![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=flat&logo=github&logoColor=white)
 ![Stream](https://img.shields.io/badge/Stream-0F9D58?style=flat&logo=stream&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+![Arcjet](https://img.shields.io/badge/Arcjet-34388F?style=flat&logo=arcjet&logoColor=white)
+![Site24x7](https://img.shields.io/badge/Site24x7-26CD66?style=flat&logo=site24x7&logoColor=white)
+![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FC5D13?style=flat&logo=coderabbit&logoColor=white)
 
 </div>
 
