@@ -33,12 +33,12 @@ I’m excited to collaborate on:
 ![Shadcn/UI](https://img.shields.io/badge/Shadcn%2FUI-000000?style=flat&logo=shadcnui&logoColor=white)
 ![Refine](https://img.shields.io/badge/Refine-42D7C3?style=flat&logo=refine&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF0?style=flat&logo=daisyui&logoColor=white)
-![Aceternity UI](https://img.shields.io/badge/Aceternity%20UI-000000?style=flat&logo=react&logoColor=61DAFB)
+![Aceternity UI](https://img.shields.io/badge/Aceternity%20UI-000000?style=flat&logo=aceternity&logoColor=white)
+![Lenis](https://img.shields.io/badge/Lenis-000000?style=flat&logo=lenis&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
-![Lenis](https://img.shields.io/badge/Lenis-000000?style=flat&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 ---
@@ -54,7 +54,7 @@ I’m excited to collaborate on:
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
 ![WebSocket (Daphne)](https://img.shields.io/badge/WebSocket%20(Daphne)-000000?style=flat&logo=websocket&logoColor=white)
-![Vapi AI](https://img.shields.io/badge/Vapi%20AI-000000?style=flat&logo=ai&logoColor=white)
+![Vapi AI](https://img.shields.io/badge/Vapi%20AI-000000?style=flat&logo=vapi&logoColor=white)
 
 ---
 
