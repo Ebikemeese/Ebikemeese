@@ -74,6 +74,7 @@ I’m excited to collaborate on:
 ---
 
 ### 🛠️ Tools & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
