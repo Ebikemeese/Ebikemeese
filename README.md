@@ -102,7 +102,7 @@ I’m excited to collaborate on:
     <td align="center">
       <img src="https://github.com/Ebikemeese/ebikemeese.github.io/blob/4e1d315c049177d4551493dec98e366721110230/src/assets/projects/horizon.png" alt="Portfolio Website Screenshot" width="300"/><br>
       <b>📱 Bank App</b><br>
-      Cross‑platform app using <b>React Native + Django backend</b><br>
+      All-in-One banking platform app using <b>React + Django backend</b><br>
       <a href="https://ebikemeese.github.io/Horizon">🔗 View Project</a>
     </td>
     <td align="center">
