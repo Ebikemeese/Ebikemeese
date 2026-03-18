@@ -56,9 +56,6 @@ I’m excited to collaborate on:
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![WebSockets(Daphne)](https://img.shields.io/badge/Daphne-000000?style=for-the-badge&logo=django&logoColor=white)
 
-
-
-
 ---
 
 ### 🗄️ Databases
