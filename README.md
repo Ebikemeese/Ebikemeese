@@ -84,6 +84,8 @@ I’m excited to collaborate on:
 ![Arcjet](https://img.shields.io/badge/Arcjet-34388F?style=for-the-badge&logo=arcjet&logoColor=white)
 ![Site24x7](https://img.shields.io/badge/Site24x7-26CD66?style=for-the-badge&logo=site24x7&logoColor=white)
 ![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FC5D13?style=for-the-badge&logo=coderabbit&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-FF0000?style=for-the-badge&logo=openssl&logoColor=black)
 </div>
 
 ---
